@@ -24,4 +24,5 @@ int main( ) {
     cout <<"my neighbour is"<<neighbour.age<< " years old"<< endl;
 
     return 0;
+
 };
